@@ -32,9 +32,6 @@ This is an example of how to list things you need to use the software and how to
    pip3 install -r requirements.txt
    ```
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
